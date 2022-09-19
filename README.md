@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/79372111?s=120&v=4" height="60"><br>
-A cloud-based Bot to Monitor Android Devices, Developed by Dipesh Dhakal.</br>
+A cloud-based Bot to Monitor Android Devices, Developed by trhacknon .</br>
               RESPECT NEPAL
 </p>
 
@@ -41,7 +41,7 @@ b. If you are Facing Problems Use the Manual Method.
 
 1. Install NodeJs `apt install nodejs`
 
-2. Clone `git clone https://github.com/coderdipesh/spydroid.git`
+2. Clone `git clone https://github.com/trhacknon/spydroid.git`
 
 3. Go to spydroid directory `spydroid`
 
